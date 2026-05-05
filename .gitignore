@@ -11,6 +11,3 @@ wheels/
 
 # Environment vars
 .env
-
-# Local docs
-docs/
