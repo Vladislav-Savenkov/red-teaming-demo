@@ -108,17 +108,3 @@ promptfoo view
 ```
 
 **Результаты последнего прогона:** 210 тестов, 50% атак успешны. Подробнее: [docs/red-teaming-report.md](docs/red-teaming-report.md).
-
-## Документация
-
-| Файл | Содержание |
-|------|-----------|
-| [docs/overview.md](docs/overview.md) | Цель проекта, три вектора атак |
-| [docs/architecture.md](docs/architecture.md) | Компонентная схема, RAG-pipeline |
-| [docs/getting-started.md](docs/getting-started.md) | Запуск, настройка, curl-примеры |
-| [docs/knowledge-base.md](docs/knowledge-base.md) | Структура документов, чанкинг |
-| [docs/vulnerabilities.md](docs/vulnerabilities.md) | Разбор уязвимостей с примерами атак |
-| [docs/red-teaming.md](docs/red-teaming.md) | Promptfoo: плагины, команды, интерпретация |
-| [docs/red-teaming-report.md](docs/red-teaming-report.md) | Отчёт по результатам тестирования |
-| [docs/api-reference.md](docs/api-reference.md) | REST API: схемы запросов и ответов |
-| [docs/configuration.md](docs/configuration.md) | Переменные окружения |
